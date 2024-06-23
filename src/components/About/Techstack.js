@@ -1,6 +1,6 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { CgCPlusPlus } from "react-icons/cg";
+
 import {
   DiJavascript1,
   DiReact,
@@ -19,7 +19,7 @@ import { SiStreamlit } from "react-icons/si";
 import { SiMysql } from "react-icons/si";
 import { SiApachekafka } from "react-icons/si";
 import { FaDatabase } from "react-icons/fa";
-import AiIcon from "../../Assets/ai.jpg";
+
 
 function Techstack() {
   return (
