@@ -6,6 +6,17 @@ import Particle from "../Particle";
 import ic from "../../Assets/Projects/ic.png";
 import mr from "../../Assets/Projects/mr.png";
 import bd from "../../Assets/Projects/bd.png";
+import ats from "../../Assets/Projects/ats.jpg";
+import spam from "../../Assets/Projects/spam.jpg";
+import gold from "../../Assets/Projects/gold.png";
+import sen from "../../Assets/Projects/sen.png";
+import data from "../../Assets/Projects/data.jpg";
+import CD from "../../Assets/Projects/CD.jpg";
+import bh from "../../Assets/Projects/bh.jpg";
+import sql from "../../Assets/Projects/sql.jpg";
+import xl from "../../Assets/Projects/xl.jpg";
+
+
 
 
 function Projects() {
@@ -41,7 +52,28 @@ function Projects() {
               demoLink="https://www.linkedin.com/posts/sowjanya-bojja_financialanalysis-frauddetection-datavisualization-activity-7197954843980783616-G48c?utm_source=share&utm_medium=member_desktop"
             />
           </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={data}
+              isBlog={false}
+              title="EDA with DataBricks"
+              description="I recently worked on a project where I analyzed sales data using Databricks, hashtag#PySpark, and hashtag#Matplotlib."
+              ghLink="https://lnkd.in/eFYi_DQv"
+              demoLink="https://lnkd.in/eFYi_DQv"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={CD}
+              isBlog={false}
+              title="CAT VS DOG"
+              description="CNN model of cat prediction in to a website using flask framework."
+              ghLink="https://github.com/simplysowj"
+              demoLink="https://www.linkedin.com/posts/sowjanya-bojja_tensorflow-flask-deeplearning-activity-7163954448375996417-BExp?utm_source=share&utm_medium=member_desktop"
+            />
+          </Col>
 
+          
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={mr}
@@ -55,7 +87,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={""}
+              imgPath={ats}
               isBlog={false}
               title="ATS Resume expert App and chatbot"
               description="Developed a dynamic ATS Resume Expert application using Gemini-pro-vision during my internship with Mentorness. Utilizing OpenAI's Generative AI capabilities, it analyzes PDF resumes against job descriptions, offering evaluations on alignment, missing keywords, and candidate suitability. This Streamlit app showcases a versatile portfolio template integrating features like resume parsing, an AI chatbot powered by OpenAI, and interactive elements for comprehensive personal branding, demonstrating proficiency in leveraging diverse technologies for impactful web experiences."
@@ -66,7 +98,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={""}
+              imgPath={spam}
               isBlog={false}
               title="SMS spam/ham classifier, Cat vs Dog Classifier and Titanic data Classification projects"
               description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
@@ -77,14 +109,60 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={""}
+              imgPath={gold}
               isBlog={false}
               title="Implemented ML algorithm for Income prediction and Gold price Prediction."
               description="Implemented ML algorithm for Income prediction and Gold price Prediction."
               ghLink="https://github.com/simplysowj/Gold-Price-Prediction-including-Flask-app"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
+              demoLink="https://www.linkedin.com/posts/sowjanya-bojja_internshipjourney-goldpriceprediction-activity-7164817502026321920-712k?utm_source=share&utm_medium=member_desktop"      
             />
           </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={sen}
+              isBlog={false}
+              title="Sentiment Analysis"
+              description="sentiment analysis using Apache Spark, Kafka, PySpark the Python API for Apache Spark, Zeppelin, and Streamlit! "
+              ghLink="https://github.com/simplysowj/"
+              demoLink="https://www.linkedin.com/posts/sowjanya-bojja_sentimentanalysis-apachespark-kafka-activity-7186393653991415808-2qUG?utm_source=share&utm_medium=member_desktop"     
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={bh}
+              isBlog={false}
+              title="Tableau"
+              description="Tableau Project - Bikehaven project"
+              ghLink="https://github.com/simplysowj/tableau"
+              demoLink="https://www.linkedin.com/posts/sowjanya-bojja_activity-7146645292652625921-uvu9?utm_source=share&utm_medium=member_desktop"     
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={sql}
+              isBlog={false}
+              title="SQL"
+              description="Analysis of IPL data using SQL (PostgreSQL) and Data visualization using Excel."
+              ghLink="https://github.com/simplysowj"
+              demoLink="https://www.linkedin.com/posts/sowjanya-bojja_successfully-finished-ipl-data-analysis-using-activity-7130554150039257088-LGf1?utm_source=share&utm_medium=member_desktop"     
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={xl}
+              isBlog={false}
+              title="Advanced Excel"
+              description="Analysis of Fitbit fitness tracker data to deliver marketing and business solutions to WeFit and its subsidiaries."
+              ghLink="https://github.com/simplysowj/fitbit"
+              demoLink="https://www.linkedin.com/posts/sowjanya-bojja_analysis-of-fitbit-fitness-tracker-data-to-activity-7116596211960221696-KafI?utm_source=share&utm_medium=member_desktop"     
+            />
+          </Col>
+
+          
+
+          
         </Row>
       </Container>
     </Container>
