@@ -2,8 +2,8 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 
 import Tilt from "react-parallax-tilt";
-import logo from "../../Assets/logo.png";
-import profile1 from "../../Assets/profile1.png";
+
+import profile1 from "../../Assets/profile1.jpg";
 import {
   AiFillGithub,
 
