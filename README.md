@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # portfolio-react-new
 
 ## TL;DR
@@ -49,3 +50,6 @@ You will find all the components used and you can edit your information accordin
 Give a ⭐ if you like this website!
 
 <a href="https://www.buymeacoffee.com/simplysowj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+=======
+# final_portfolio_react
+>>>>>>> 794a8e90090288327c27d46a0718b385c298937b
