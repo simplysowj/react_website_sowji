@@ -1,7 +1,6 @@
 {
   "name": "portfolio",
   "homepage": "https://simplysowj.github.io/portfolio-react-new",
-
   "version": "0.1.0",
   "private": true,
   "dependencies": {
