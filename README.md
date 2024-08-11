@@ -2,7 +2,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [simplysowj](https://github.com/simplysowj/portfolio-react-new/). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [simplysowj](https://github.com/simplysowj/react_website_sowji/). Thanks!
 
 ## Built With
 
