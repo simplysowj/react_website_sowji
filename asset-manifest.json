@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/react_website_sowji/static/css/main.2a54be16.css",
+    "main.js": "/react_website_sowji/static/js/main.c33fb84f.js",
+    "static/js/415.fb51c11d.chunk.js": "/react_website_sowji/static/js/415.fb51c11d.chunk.js",
+    "static/js/787.35dd0f9c.chunk.js": "/react_website_sowji/static/js/787.35dd0f9c.chunk.js",
+    "static/media/xl.jpg": "/react_website_sowji/static/media/xl.027bcb1e2d2a292a3efc.jpg",
+    "static/media/sql.jpg": "/react_website_sowji/static/media/sql.ec06b3d6e06a513ddd00.jpg",
+    "static/media/spam.jpg": "/react_website_sowji/static/media/spam.68fe1890fd072b8a91b2.jpg",
+    "static/media/gold.png": "/react_website_sowji/static/media/gold.0495acdd7253ae5172cf.png",
+    "static/media/ic.png": "/react_website_sowji/static/media/ic.83c7fc27557ff89134be.png",
+    "static/media/sen.png": "/react_website_sowji/static/media/sen.d16069d85f845d749854.png",
+    "static/media/profile1.jpg": "/react_website_sowji/static/media/profile1.9d818868c190b3ec66c8.jpg",
+    "static/media/ats.jpg": "/react_website_sowji/static/media/ats.d35fcffb6b41d2bf1c5d.jpg",
+    "static/media/about1.png": "/react_website_sowji/static/media/about1.ccfe20eb80762b83405c.png",
+    "static/media/Sowjanya_AI_resume_new.pdf": "/react_website_sowji/static/media/Sowjanya_AI_resume_new.e05a606c18d95ba90e1e.pdf",
+    "static/media/mr.png": "/react_website_sowji/static/media/mr.853a0f1efa3c3ab63700.png",
+    "static/media/logo3.png": "/react_website_sowji/static/media/logo3.8ff7a1f2c7a07a9b969f.png",
+    "static/media/bh.jpg": "/react_website_sowji/static/media/bh.661068a3ae110d5699e2.jpg",
+    "static/media/CD.jpg": "/react_website_sowji/static/media/CD.3c91bafbe652a5ae94aa.jpg",
+    "static/media/p1.jpg": "/react_website_sowji/static/media/p1.90ccaea114163e69e8f2.jpg",
+    "static/media/bd.png": "/react_website_sowji/static/media/bd.34abd12ea562ee9d18d0.png",
+    "static/media/home-bg.jpg": "/react_website_sowji/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/data.jpg": "/react_website_sowji/static/media/data.f05243040e9f32a1bac6.jpg",
+    "static/media/pre.svg": "/react_website_sowji/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/react_website_sowji/index.html",
+    "main.2a54be16.css.map": "/react_website_sowji/static/css/main.2a54be16.css.map",
+    "main.c33fb84f.js.map": "/react_website_sowji/static/js/main.c33fb84f.js.map",
+    "415.fb51c11d.chunk.js.map": "/react_website_sowji/static/js/415.fb51c11d.chunk.js.map",
+    "787.35dd0f9c.chunk.js.map": "/react_website_sowji/static/js/787.35dd0f9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a54be16.css",
+    "static/js/main.c33fb84f.js"
+  ]
+}
