@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://portfolio-sowjanya-bosqmysmsxbaryswmzg9qp.streamlit.app/"
+                href="https://personalbotpy-latestsowji.streamlit.app/"
                 target="_blank"
                 rel="noreferrer"
               >

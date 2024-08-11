@@ -9,12 +9,13 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Sowjanya Bojja </span>
-            from <span className="purple">  India.</span>
+            
             <br />
             I am Data Science enthusiastic.
             <br />
-            MSc in Data Science 
+            Master of science in Data Science  
             <br />
+            Please feel free to explore my portfolio in the navigation bar for more details about me.
             <br />
             Apart from coding, some other activities that I love to do!
           </p>

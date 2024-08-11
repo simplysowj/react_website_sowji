@@ -9,6 +9,7 @@ import {
 
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import { SiMedium } from "react-icons/si";
 
 function Home2() {
   return (
@@ -85,6 +86,16 @@ function Home2() {
                   className="icon-colour  home-social-icons"
                 >
                   <FaLinkedinIn />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="https://medium.com/@simplysowj"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <SiMedium />
                 </a>
               </li>
               
