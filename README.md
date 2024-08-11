@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# portfolio-react-new
+# final_portfolio_react
 
 ## TL;DR
 
@@ -7,9 +6,9 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
-My personal portfolio <a href="https://simplysowj.vercel.app/" target="_blank">simplysowj.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://simplysowj.vercel.app/" target="_blank">simplysowj.tech</a> which features some of my GitHub projects as well as my resume and technical skills.<br/>
 
-This project was built using these technologies.
+This project was built using these technologies:
 
 - React.js
 - Node.js
@@ -36,20 +35,16 @@ Clone down this repository. You will need `node.js` and `git` installed globally
 
 2. In the project directory, you can run: `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+Runs the app in development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser. The page will reload if you make edits.
 
 ## Usage Instructions
 
-Open the project folder and Navigate to `/src/components/`. <br/>
+Open the project folder and navigate to `/src/components/`. <br/>
 You will find all the components used and you can edit your information accordingly.
 
-### Show your support
+### Show Your Support
 
 Give a ⭐ if you like this website!
 
-<a href="https://www.buymeacoffee.com/simplysowj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
-=======
-# final_portfolio_react
->>>>>>> 794a8e90090288327c27d46a0718b385c298937b
+<a href="https://www.buymeacoffee.com/simplysowj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="217px"></a>
